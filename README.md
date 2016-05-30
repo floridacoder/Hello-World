@@ -1,2 +1,3 @@
 # Hello-World
-Sample Git
+Something here..
+Another Thing
